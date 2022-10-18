@@ -28,10 +28,6 @@
 ![Search Page](/images/searchpage.png "Search Page")
 * **RESULTS PAGE-** The price of that particular stock user searches appears here as a result.
 ![Results Page](/images/resultpage.png "Results Page")
-* **LOGIN PAGE-** If the user wishes to add the stock to his watchlist the user is asked to login.
-![Login Page](/images/loginpage.png "Login Page")
-* **SIGNUP PAGE-** If the user is a new user, the user is asked to sign up and then login.
-![Signup Page](/images/signuppage.png "Signup Page")
 * **WATCHLIST PAGE-** The stock is now added to your watchlist and watch it as frequently as the userr wishes to.
 ![Watchlist Page](/images/watchlistpage.png "Watchlist Page")
 * **Local Implementation** <br>
@@ -46,11 +42,4 @@ In case, you want to download the code from our repo and watch things locally, y
 - The exception case was what if the user searches for a stock name that is not a stock symbol. Then we came up with a solution of showing a page of **NO RESULT** <br>
  For example- The stock symbol for Google is GOOG. It shows this **NO RESULT** page if you search for a stock name of Google instead of GOOG.
 ![No result Page](/images/noresultpage.png "No-result Page")
-# Support
-If you have questions about the Project or just want to interact, you can contact us.
 
-* [Sai Satwik](mailto:saisatwik99@gmail.com) 
-* [Aravind Challa](mailto:aravind.challa1823@gmail.com) 
-* [Sathwik Veeramaneni](mailto:sathwikrao2001@gmail.com) 
-
-Don't forget that we are open to suggestions, extensions or adaptations. Feel free to discuss or propose new ideas for the project!
